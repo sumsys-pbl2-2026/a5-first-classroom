@@ -25,4 +25,5 @@ print(f'The sum of {num1} and {num2} is {sum}.')
 ```
 
 - sum.pyの動作を確認したら、編集結果をコミットしてください。
+- 提出前に、`git tag submit` として、現在のバージョンにタグを付けます。
 - `git push`として、結果をGitHub上のリポジトリに反映させます。
