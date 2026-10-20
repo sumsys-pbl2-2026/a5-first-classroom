@@ -1,7 +1,7 @@
 # a5-1st-classroom
 First GitHub Classroom Assignment
 
-このプロジェクトは、システム工学応用実習II-2025の課題 A5用です。
+このプロジェクトは、システム工学応用実習II-2026の課題 A5用です。
 
 ファイルの編集作業などは、ローカルで行います。
 
