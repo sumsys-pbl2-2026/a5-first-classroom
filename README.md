@@ -28,5 +28,5 @@ print(f'The sum of {num1} and {num2} is {sum}.')
 - 提出前に、`git tag submit` として、現在のバージョンにタグを付けます。
 - `git push`として、結果をGitHub上のリポジトリに反映させます。
 
-- 修正版を提出する場合、タグを submit1, submit2のように、後に数字をつけてください。1回目の再提出は、submit1となります。
+- 修正版を提出する場合、タグを submit1, submit2のように、後に数字を付けた形式にして下さい。1回目の再提出は、submit1となります。
   
